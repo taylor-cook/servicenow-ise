@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="04bb0d31979eb190bd8ff0021153af6f" label="Integration Settings" max_length="40" name="x_caci_cisco_ise_integration_settings" type="collection">
+    <element db_object_id="04bb0d31979eb190bd8ff0021153af6f" label="Integration Settings" max_length="40" name="x_caci_cisco_ise_tc_integration_settings" type="collection">
         <element label="Description" max_length="40" name="description" type="string"/>
         <element label="ERS Node" mandatory="true" max_length="40" name="ers_node" type="string"/>
         <element label="ERS Password" mandatory="true" max_length="255" name="ers_password" type="password2"/>

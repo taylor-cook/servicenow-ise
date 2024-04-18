@@ -30,7 +30,7 @@
         <sys_mod_count>3</sys_mod_count>
         <sys_name>ISE Devices</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise">4a658575975eb190bd8ff0021153afa7</sys_package>
+        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise_tc">4a658575975eb190bd8ff0021153afa7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cisco ISE">4a658575975eb190bd8ff0021153afa7</sys_scope>
         <sys_update_name>sys_app_module_cd8f6e1297de7590bd8ff0021153af6e</sys_update_name>

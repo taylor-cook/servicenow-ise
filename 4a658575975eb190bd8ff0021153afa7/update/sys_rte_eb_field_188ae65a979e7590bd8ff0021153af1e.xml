@@ -8,7 +8,7 @@
         <sys_id>188ae65a979e7590bd8ff0021153af1e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ip_address</sys_name>
-        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise">4a658575975eb190bd8ff0021153afa7</sys_package>
+        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise_tc">4a658575975eb190bd8ff0021153afa7</sys_package>
         <sys_policy/>
         <sys_rte_eb_definition display_value="ISE ETL Map">1a6565319752f190bd8ff0021153af57</sys_rte_eb_definition>
         <sys_rte_eb_entity display_value="Handheld Computing Device">597fb17597d2f190bd8ff0021153afb0</sys_rte_eb_entity>

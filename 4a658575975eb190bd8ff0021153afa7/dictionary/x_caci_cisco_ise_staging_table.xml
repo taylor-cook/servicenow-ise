@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="7e3629b19752f190bd8ff0021153af04" extends="sys_import_set_row" label="ISE Staging Table" max_length="40" name="x_caci_cisco_ise_staging_table" type="collection">
+    <element db_object_id="7e3629b19752f190bd8ff0021153af04" extends="sys_import_set_row" label="ISE Staging Table" max_length="40" name="x_caci_cisco_ise_tc_staging_table" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=adHostResolvedIdentities" label="adHostResolvedIdentities" max_length="40" name="u_adhostresolvedidentities" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=adNormalizedUser" label="adNormalizedUser" max_length="40" name="u_adnormalizeduser" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=adUserDomainName" label="adUserDomainName" max_length="40" name="u_aduserdomainname" type="string"/>

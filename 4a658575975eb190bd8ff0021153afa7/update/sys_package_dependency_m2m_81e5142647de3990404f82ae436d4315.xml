@@ -6,7 +6,7 @@
         <sys_created_on>2023-11-07 00:38:15</sys_created_on>
         <sys_id>81e5142647de3990404f82ae436d4315</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise">4a658575975eb190bd8ff0021153afa7</sys_package>
+        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise_tc">4a658575975eb190bd8ff0021153afa7</sys_package>
         <sys_updated_by>jamie@moderncyber.com</sys_updated_by>
         <sys_updated_on>2023-11-07 00:38:15</sys_updated_on>
     </sys_package_dependency_m2m>

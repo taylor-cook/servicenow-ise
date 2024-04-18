@@ -8,7 +8,7 @@
         <sys_id>fe7ce61e979e7590bd8ff0021153afe3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>cmdb_rel_ci_1699289863420_0.child</sys_name>
-        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise">4a658575975eb190bd8ff0021153afa7</sys_package>
+        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise_tc">4a658575975eb190bd8ff0021153afa7</sys_package>
         <sys_policy/>
         <sys_rte_eb_definition display_value="ISE ETL Map">1a6565319752f190bd8ff0021153af57</sys_rte_eb_definition>
         <sys_rte_eb_entity display_value="cmdb_rel_ci_1699289863420_0">3e7ce61e979e7590bd8ff0021153afdf</sys_rte_eb_entity>

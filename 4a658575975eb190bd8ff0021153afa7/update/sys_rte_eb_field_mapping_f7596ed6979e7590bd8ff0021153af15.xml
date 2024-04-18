@@ -9,7 +9,7 @@
         <sys_id>f7596ed6979e7590bd8ff0021153af15</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise">4a658575975eb190bd8ff0021153afa7</sys_package>
+        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise_tc">4a658575975eb190bd8ff0021153afa7</sys_package>
         <sys_policy/>
         <sys_rte_eb_definition display_value="ISE ETL Map">1a6565319752f190bd8ff0021153af57</sys_rte_eb_definition>
         <sys_rte_eb_entity_mapping display_value="TempToIP Camera">e9a686da97da7590bd8ff0021153afe9</sys_rte_eb_entity_mapping>
@@ -17,6 +17,6 @@
         <sys_update_name>sys_rte_eb_field_mapping_f7596ed6979e7590bd8ff0021153af15</sys_update_name>
         <sys_updated_by>jamie@moderncyber.com</sys_updated_by>
         <sys_updated_on>2023-11-06 16:44:07</sys_updated_on>
-        <target_sys_rte_eb_field display_value="x_caci_cisco_ise_wireless_ssid">b7596ed6979e7590bd8ff0021153af13</target_sys_rte_eb_field>
+        <target_sys_rte_eb_field display_value="x_caci_cisco_ise_tc_wireless_ssid">b7596ed6979e7590bd8ff0021153af13</target_sys_rte_eb_field>
     </sys_rte_eb_field_mapping>
 </record_update>

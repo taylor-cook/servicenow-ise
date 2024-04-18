@@ -47,7 +47,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_session_state</element>
+            <element>x_caci_cisco_ise_tc_session_state</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -92,7 +92,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_endpoint_profile</element>
+            <element>x_caci_cisco_ise_tc_endpoint_profile</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -107,7 +107,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_nmap_os</element>
+            <element>x_caci_cisco_ise_tc_nmap_os</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -122,7 +122,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_security_group</element>
+            <element>x_caci_cisco_ise_tc_security_group</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -137,7 +137,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_authorization_profile</element>
+            <element>x_caci_cisco_ise_tc_authorization_profile</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -152,7 +152,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_posture_status</element>
+            <element>x_caci_cisco_ise_tc_posture_status</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -167,7 +167,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_mdm_registered</element>
+            <element>x_caci_cisco_ise_tc_mdm_registered</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -197,7 +197,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_use_case</element>
+            <element>x_caci_cisco_ise_tc_use_case</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -212,7 +212,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_nad_ip</element>
+            <element>x_caci_cisco_ise_tc_nad_ip</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -227,7 +227,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_nad_identifier</element>
+            <element>x_caci_cisco_ise_tc_nad_identifier</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -242,7 +242,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_nad_port</element>
+            <element>x_caci_cisco_ise_tc_nad_port</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -257,7 +257,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_vlan</element>
+            <element>x_caci_cisco_ise_tc_vlan</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -272,7 +272,7 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>x_caci_cisco_ise_wireless_ssid</element>
+            <element>x_caci_cisco_ise_tc_wireless_ssid</element>
             <list_id display_value="cmdb_ci_hardware" element="NULL" name="cmdb_ci_hardware" parent="NULL" relationship="NULL" sys_domain="global" view="1780857147d27590404f82ae436d43b0">742e4fd69752b590bd8ff0021153af5d</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
@@ -303,7 +303,7 @@
             <sys_id>742e4fd69752b590bd8ff0021153af5d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>cmdb_ci_hardware</sys_name>
-            <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise">4a658575975eb190bd8ff0021153afa7</sys_package>
+            <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise_tc">4a658575975eb190bd8ff0021153afa7</sys_package>
             <sys_policy/>
             <sys_scope display_value="Cisco ISE">4a658575975eb190bd8ff0021153afa7</sys_scope>
             <sys_update_name>sys_ui_list_cmdb_ci_hardware_cisco_ise_devices</sys_update_name>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="ERS Settings" section_id="f8aa36ce97da3590bd8ff0021153af52" sys_domain="global" table="x_caci_cisco_ise_integration_settings" version="3" view="">
+    <sys_ui_section caption="ERS Settings" section_id="f8aa36ce97da3590bd8ff0021153af52" sys_domain="global" table="x_caci_cisco_ise_tc_integration_settings" version="3" view="">
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>jamie@moderncyber.com</sys_created_by>
@@ -20,7 +20,7 @@ https://developer.cisco.com/docs/identity-services-engine/latest/#!setting-up/ci
             <sys_id>ef4cb642971e3590bd8ff0021153af7e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
+            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_tc_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
             <sys_updated_by>jamie@moderncyber.com</sys_updated_by>
             <sys_updated_on>2023-11-05 23:28:23</sys_updated_on>
             <sys_user/>
@@ -34,7 +34,7 @@ https://developer.cisco.com/docs/identity-services-engine/latest/#!setting-up/ci
             <sys_id>e34cb642971e3590bd8ff0021153af7f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
+            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_tc_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
             <sys_updated_by>jamie@moderncyber.com</sys_updated_by>
             <sys_updated_on>2023-11-05 23:28:23</sys_updated_on>
             <sys_user/>
@@ -48,7 +48,7 @@ https://developer.cisco.com/docs/identity-services-engine/latest/#!setting-up/ci
             <sys_id>e74cb642971e3590bd8ff0021153af7f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
+            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_tc_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
             <sys_updated_by>jamie@moderncyber.com</sys_updated_by>
             <sys_updated_on>2023-11-05 23:28:23</sys_updated_on>
             <sys_user/>
@@ -62,7 +62,7 @@ https://developer.cisco.com/docs/identity-services-engine/latest/#!setting-up/ci
             <sys_id>eb4cb642971e3590bd8ff0021153af7f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
+            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_tc_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
             <sys_updated_by>jamie@moderncyber.com</sys_updated_by>
             <sys_updated_on>2023-11-05 23:28:23</sys_updated_on>
             <sys_user/>
@@ -76,7 +76,7 @@ https://developer.cisco.com/docs/identity-services-engine/latest/#!setting-up/ci
             <sys_id>ef4cb642971e3590bd8ff0021153af7f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
+            <sys_ui_section caption="ERS Settings" display_value="ERS Settings" name="x_caci_cisco_ise_tc_integration_settings" sys_domain="global" view="Default view">f8aa36ce97da3590bd8ff0021153af52</sys_ui_section>
             <sys_updated_by>jamie@moderncyber.com</sys_updated_by>
             <sys_updated_on>2023-11-05 23:28:23</sys_updated_on>
             <sys_user/>
@@ -85,7 +85,7 @@ https://developer.cisco.com/docs/identity-services-engine/latest/#!setting-up/ci
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>ERS Settings</caption>
             <header>false</header>
-            <name>x_caci_cisco_ise_integration_settings</name>
+            <name>x_caci_cisco_ise_tc_integration_settings</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>jamie@moderncyber.com</sys_created_by>
@@ -94,9 +94,9 @@ https://developer.cisco.com/docs/identity-services-engine/latest/#!setting-up/ci
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f8aa36ce97da3590bd8ff0021153af52</sys_id>
             <sys_mod_count>2</sys_mod_count>
-            <sys_name>x_caci_cisco_ise_integration_settings</sys_name>
+            <sys_name>x_caci_cisco_ise_tc_integration_settings</sys_name>
             <sys_overrides/>
-            <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise">4a658575975eb190bd8ff0021153afa7</sys_package>
+            <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise_tc">4a658575975eb190bd8ff0021153afa7</sys_package>
             <sys_policy/>
             <sys_scope display_value="Cisco ISE">4a658575975eb190bd8ff0021153afa7</sys_scope>
             <sys_update_name>sys_ui_section_f8aa36ce97da3590bd8ff0021153af52</sys_update_name>

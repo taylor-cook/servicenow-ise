@@ -11,11 +11,11 @@
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
-        <collection>x_caci_cisco_ise_integration_settings</collection>
+        <collection>x_caci_cisco_ise_tc_integration_settings</collection>
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_caci_cisco_ise_integration_settings">mid_serverVALCHANGES^ORpxgrid_nodeVALCHANGES^ORpxgrid_portVALCHANGES^ORmid_server_in_useVALCHANGES^ORpxgrid_account_nameVALCHANGES^EQ<item endquery="false" field="mid_server" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
+        <filter_condition table="x_caci_cisco_ise_tc_integration_settings">mid_serverVALCHANGES^ORpxgrid_nodeVALCHANGES^ORpxgrid_portVALCHANGES^ORmid_server_in_useVALCHANGES^ORpxgrid_account_nameVALCHANGES^EQ<item endquery="false" field="mid_server" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
             <item endquery="false" field="pxgrid_node" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/>
             <item endquery="false" field="pxgrid_port" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/>
             <item endquery="false" field="mid_server_in_use" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/>
@@ -36,7 +36,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
     (function () {
         try {
-            var gr = new GlideRecord('x_caci_cisco_ise_integration_settings');
+            var gr = new GlideRecord('x_caci_cisco_ise_tc_integration_settings');
             gr.addQuery();
             gr.setLimit(1);
             gr.query();
@@ -168,7 +168,7 @@
         <sys_mod_count>6</sys_mod_count>
         <sys_name>Cisco ISE Integration Provisioning</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise">4a658575975eb190bd8ff0021153afa7</sys_package>
+        <sys_package display_value="Cisco ISE" source="x_caci_cisco_ise_tc">4a658575975eb190bd8ff0021153afa7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cisco ISE">4a658575975eb190bd8ff0021153afa7</sys_scope>
         <sys_update_name>sys_script_d88f89b5979eb190bd8ff0021153af24</sys_update_name>

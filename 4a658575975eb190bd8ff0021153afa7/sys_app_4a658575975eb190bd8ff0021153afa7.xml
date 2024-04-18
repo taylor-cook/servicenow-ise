@@ -18,10 +18,10 @@
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_caci_cisco_ise</scope>
+        <scope>x_caci_cisco_ise_tc</scope>
         <scoped_administration>false</scoped_administration>
         <short_description>This App integration Cisco ISE with ServiceNow</short_description>
-        <source>x_caci_cisco_ise</source>
+        <source>x_caci_cisco_ise_tc</source>
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
@@ -35,7 +35,7 @@
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
-        <user_role display_value="x_caci_cisco_ise.ise admin" name="x_caci_cisco_ise.ise admin">bc854df5975eb190bd8ff0021153af2c</user_role>
+        <user_role display_value="x_caci_cisco_ise_tc.ise admin" name="x_caci_cisco_ise_tc.ise admin">bc854df5975eb190bd8ff0021153af2c</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>0.7.0</version>
